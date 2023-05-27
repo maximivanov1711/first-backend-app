@@ -1,5 +1,3 @@
-export const APP_PORT = 3000
-
 export const HTTP_STATUSES = {
     OK_200: 200,
     CREATED_201: 201,
